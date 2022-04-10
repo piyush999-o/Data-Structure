@@ -53,7 +53,7 @@ int main()
     second->data = 25;
     second->next = third;
 
-    third->data = 39;
+    third->data = 38;
     third->next = NULL;
 
     // running Insert At First
