@@ -50,7 +50,7 @@ int main()
     head->data = 12;
     head->next = second;
 
-    second->data = 25;
+    second->data = 24;
     second->next = third;
 
     third->data = 38;
